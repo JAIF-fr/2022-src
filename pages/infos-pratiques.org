@@ -1,0 +1,27 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF
+
+* Informations pratiques
+
+Lieu :
+
+Plan d'accès :
+
+******** DELEGATED Vincent: plan d'accès
+:PROPERTIES:
+:TRIGGER:  chain-find-next(TODO,todo-only,from-current,no-wrap)
+:CREATED:  [2022-05-05 jeu. 11:17]
+:END:
+
+******** DELEGATED Vincent: info Lieu
+:PROPERTIES:
+:TRIGGER:  chain-find-next(TODO,todo-only,from-current,no-wrap)
+:CREATED:  [2022-05-05 jeu. 11:17]
+:END:
+
+******** DELEGATED Vincent:  infos navette
+:PROPERTIES:
+:TRIGGER:  chain-find-next(TODO,todo-only,from-current,no-wrap)
+:CREATED:  [2022-05-05 jeu. 11:17]
+:END:

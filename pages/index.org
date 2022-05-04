@@ -1,0 +1,165 @@
+#+STARTUP: showall
+#+OPTIONS: toc:nil
+#+title: JAIF
+
+* Journée thématique sur les attaques par injection de fautes
+
+# : attaques physiques, contre-mesures, mécanismes d’évaluation de la robustesse et outlls
+
+#+begin_export html
+<p style="text-align:center; font-weight: bold;">
+</p>
+<p class="alert" style="text-align:center; color: #3B31D9; line-height: 2em; font-size: x-large; font-weight: bold;">
+Mardi 8 Novembre 2022, Valence
+<br>
+</p>
+<center>
+</center>
+#+end_export
+
+# ** Description
+
+Ce workshop a pour objectif de réunir la communauté de la recherche
+française en analyse de fautes sur des systèmes de sécurité, pour
+consolider ce savoir-faire et pour faire émerger des recherches plus
+globales.  Notre communauté est très avancée sur le plan mondial, et
+travaille sur des aspects variés :
+
++ attaques à l'aide d'injection de fautes, et modèles de fautes,
++ simulation et méthodes formelles pour évaluer la robustesse d'un
+  système à une attaque par injection de fautes, et pour comprendre
+  l’impact des fautes,
++ preuve de sécurité,
++ conception de contremesures matérielles ou logicielles,
++ application outillée de contremesures,
++ etc.
+
+Le contexte des systèmes embarqués sécurisés évolue
+rapidement, et il est important d’envisager l’évolution des
+attaques mais aussi des systèmes.
+On assiste aujourd’hui à un changement de paradigme pour aller de
+systèmes fermés, tels que la carte à puce, vers des systèmes ouverts qui
+embarquent des enclaves sécurisées (e.g., Trusted Execution
+Environments).  Également, les attaques exploitant les injections de
+fautes deviennent plus complexes, avec par exemple la possibilité de
+réaliser des injections multiples ou la combinaison avec des
+observations de canaux cachés.
+
+Le [[./programme.html][programme de cette journée]] est construit de sorte à favoriser les
+échanges entre les participants sur l’ensemble de ces sujets, au
+travers de présentations et de discussions.
+
+
+L'[[./cfp.html][appel à contributions]] est détaillé sur une page dédiée.
+
+** Comité d'organisation
+
++   Vincent Beroulle  (local chair) -- LCIS, Université Grenoble Alpes
++   Guillaume Bouffard --  ANSSI, ENS
++   Damien Couroussé -- CEA-List, Université Grenoble Alpes
++   Jean-Max Dutertre -- MSE, Centre Microélectronique de Provence
++   Sylvain Guilley -- Telecom ParisTech, Secure-IC
++   Karine Heydemann -- LIP6, Sorbonne Université
++   Marie-Laure Potet -- VÉRIMAG, Grenoble INP
+
+Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
+
+# ** Soutien institutionnel
+
+# JAIF est une journée thématique du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]].
+# La journée est organisée avec le soutien logistique et financier :
+# - du [[https://gdr-securite.irisa.fr][GDR Sécurité Informatique]],
+# - de l'[[https://www.ens.fr][ENS]],
+# - du [[https://cybersecurity.univ-grenoble-alpes.fr][Cybersecurity Institute]] de l'Université Grenoble Alpes.
+
+# #+BEGIN_EXPORT html
+# <center>
+# <p>
+# <a href="https://gdr-securite.irisa.fr">
+# <img src="./media/logo_cnrs.png" alt="Logo CNRS" title="CNRS" data-align="center" height="100" /></a>
+
+#  
+# <a href="https://gdr-securite.irisa.fr/index.html"><img
+#      src="./media/GDR_logo_04-vecto-01.png" alt="Logo GDR sécurité"
+#      title="GDR Sécurité Informatique"
+#      data-align="center" height="100" /></a>
+
+# <a href="https://www.ens.fr">
+# <img src="./media/logo_ENS_PSL.jpg" alt="Logo ENS" title="ENS" data-align="center" height="100" /></a>
+
+#  
+# <a href="https://cybersecurity.univ-grenoble-alpes.fr"><img
+#      src="./media/logo_GACI.png" alt="Logo GACI"
+#      title="Cybersecurity Institute de l'Université Grenoble Alpes"
+#      data-align="center" height="100" /></a>
+# </p>
+# </center>
+# #+END_EXPORT
+
+# ** Sponsors
+
+# JAIF est parrainé par :
+# - [[https://www.arm.com][ARM]],
+# - [[https://www.idemia.com][IDEMIA]],
+# - [[https://www.invia.fr][INVIA]], a Thales Company
+# - [[https://www.ledger.com][Ledger]],
+# - [[https://www.serma-safety-security.com][Serma Safety & Security]].
+
+# #+BEGIN_EXPORT html
+# <center>
+# <p>
+# <a href="https://www.arm.com">
+# <img src="./media/logo_ARM.png" alt="Logo ARM" title="ARM" data-align="center" height="80" /></a>
+
+#  
+# <a href="https://www.idemia.com">
+# <img src="./media/logo_IDEMIA.png" alt="Logo IDEMIA" title="IDEMIA" data-align="center" height="80" /></a>
+
+#  
+# <a href="https://www.invia.fr">
+# <img src="./media/logo_INVIA.jpeg" alt="Logo INVIA" title="INVIA, a Thales Company" data-align="center" height="80" /></a>
+
+#  
+# <a href="https://www.ledger.com">
+# <img src="./media/logo_Ledger.png" alt="Logo Ledger" title="Ledger" data-align="center" height="80" /></a>
+
+#  
+# <a href="https://www.serma-safety-security.com">
+# <img src="./media/logo_Serma.jpg" alt="Logo Serma" title="Serma" data-align="center" height="80" /></a>
+# </p>
+# </center>
+# #+END_EXPORT
+
+# ** Sponsors
+
+# JAIF est parrainé par :
+# - [[https://www.arm.com][ARM]],
+# - [[https://www.idemia.com][IDEMIA]],
+# - [[https://www.invia.fr][INVIA]], a Thales Company
+# - [[https://www.ledger.com][Ledger]],
+# - [[https://www.serma-safety-security.com][Serma Safety & Security]].
+
+# #+BEGIN_EXPORT html
+# <center>
+# <p>
+# <a href="https://www.arm.com">
+# <img src="./media/logo_ARM.png" alt="Logo ARM" title="ARM" data-align="center" height="80" /></a>
+
+#  
+# <a href="https://www.idemia.com">
+# <img src="./media/logo_IDEMIA.png" alt="Logo IDEMIA" title="IDEMIA" data-align="center" height="80" /></a>
+
+#  
+# <a href="https://www.invia.fr">
+# <img src="./media/logo_INVIA.jpeg" alt="Logo INVIA" title="INVIA, a Thales Company" data-align="center" height="80" /></a>
+
+#  
+# <a href="https://www.ledger.com">
+# <img src="./media/logo_Ledger.png" alt="Logo Ledger" title="Ledger" data-align="center" height="80" /></a>
+
+#  
+# <a href="https://www.serma-safety-security.com">
+# <img src="./media/logo_Serma.jpg" alt="Logo Serma" title="Serma" data-align="center" height="80" /></a>
+# </p>
+# </center>
+# #+END_EXPORT
