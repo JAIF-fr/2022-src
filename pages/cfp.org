@@ -21,7 +21,7 @@ aboutis.
 
 + Deadline pour l’envoi de résumé : à préciser
 + Réponse aux auteurs             : à préciser
-+ JAIF                            : 7 Novembre 2022
++ JAIF                            : 8 Novembre 2022
 
 ******** TODO update dates
 :PROPERTIES:
