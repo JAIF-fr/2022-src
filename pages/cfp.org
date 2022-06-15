@@ -4,6 +4,8 @@
 
 * Appel à contributions
 
+[[file:media/JAIF-CfP-2022.pdf][Appel à contributions (PDF)]]
+
 Les présentations en français ou en anglais se feront en présentiel
 uniquement.  Pour présenter vos travaux, vous devez soumettre [[https://easychair.org/conferences/?conf=jaif2022][sur
 easychair]] les informations suivantes avant le 31 août 2022 :
