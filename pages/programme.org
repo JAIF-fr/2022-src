@@ -8,20 +8,11 @@ vocation à être ouvertes aux interactions avec l'assemblée, et un
 temps de questions et de discussions sera réservé à la fin de chaque
 session.
 
-| 10h00 |   | *Ouverture de la journée* |   |
-|       |   |                           |   |
-|       |   | TBD                       |   |
-|       |   |                           |   |
-| 16h30 |   | Fin de la journée         |   |
+Des [[./infos-pratiques.html][navettes]] seront affrétées en début et en fin de journée pour les
+transferts vers la gare de Valence TGV.
 
-******** TODO préciser les horaires début/fin de la journée
-:PROPERTIES:
-:TRIGGER:  chain-find-next(TODO,todo-only,from-current,no-wrap)
-:CREATED:  [2022-05-05 jeu. 11:15]
-:END:
-
-******** TODO ajouter les horaires navette
-:PROPERTIES:
-:TRIGGER:  chain-find-next(TODO,todo-only,from-current,no-wrap)
-:CREATED:  [2022-05-05 jeu. 11:16]
-:END:
+| 10h00 |   | Ouverture de la journée    |   |
+|       |   |                            |   |
+|       |   | (en cours de construction) |   |
+|       |   |                            |   |
+| 16h30 |   | Fin de la journée          |   |
