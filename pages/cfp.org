@@ -4,24 +4,26 @@
 
 * Appel à contributions
 
-Pour proposer une présentation de vos travaux, il suffit d'envoyer
-avant le 31 août [[mailto:jaif@saxifrage.saclay.cea.fr?subject=CfP: ][un mail au comité d'organisation]] précisant :
+Les présentations peuvent être faites en français ou en anglais et se feront en présentiel.
+Pour présenter vos travaux, il suffit de soumettre les
+informations suivantes avant le 31 août 2022 [[https://easychair.org/conferences/?conf=jaif2022][sur easychair]] :
 
- - un résumé de votre présentation (de 15 lignes à une page max. au format libre),
- - l’orateur pressenti,
- - la langue de présentation (français ou anglais). Les présentations
-   peuvent être faites en français ou en anglais, de préférence en
-   présentiel, ou à distance.
+1. Votre choix : poster ou présentation orale (les deux ?)
+2. Un résumé de votre présentation (de 15 lignes à une page max au format libre),
+3. L’orateur pressenti et une courte biographie,
+4. la langue de présentation (français ou anglais).
 
-Les propositions seront sélectionnées sur la base d'un équilibre entre
-les thématiques couvertes, les travaux préliminaires et les résultats
-aboutis.
+	https://easychair.org/conferences/?conf=jaif2022
+
+Pour toute question, vous pouvez envoyer [[mailto:jaif@saxifrage.saclay.cea.fr?subject=CfP: ][un mail au comité
+  d'organisation]].
 
 *** Dates importantes
+
 |---------------------------------+------------|
 | Deadline pour l’envoi de résumé | 31/08/2022 |
 |                                 |            |
-| Réponse aux auteurs             | 09/09/2022 |
+| Réponse aux auteurs             | 16/09/2022 |
 |                                 |            |
 | JAIF                            | 09/11/2022 |
 |                                 |            |
