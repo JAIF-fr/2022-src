@@ -4,27 +4,29 @@
 
 * Appel à contributions
 
-Les présentations peuvent être faites en français ou en anglais et se feront en présentiel.
-Pour présenter vos travaux, il suffit de soumettre les
-informations suivantes avant le 31 août 2022 [[https://easychair.org/conferences/?conf=jaif2022][sur easychair]] :
+Les présentations en français ou en anglais se feront en présentiel
+uniquement.  Pour présenter vos travaux, vous devez soumettre [[https://easychair.org/conferences/?conf=jaif2022][sur
+easychair]] les informations suivantes avant le 31 août 2022 :
 
-1. Votre choix : poster ou présentation orale (les deux ?)
+1. Présentation orale et/ou poster
 2. Un résumé de votre présentation (de 15 lignes à une page max au format libre),
-3. L’orateur pressenti et une courte biographie,
-4. la langue de présentation (français ou anglais).
+3. Le nom de l’orateur et une courte biographie,
+4. La langue de présentation (français ou anglais).
 
-	https://easychair.org/conferences/?conf=jaif2022
+La soumission a lieu sur easychair :
+ https://easychair.org/conferences/?conf=jaif2022
+
 
 Pour toute question, vous pouvez envoyer [[mailto:jaif@saxifrage.saclay.cea.fr?subject=CfP: ][un mail au comité
   d'organisation]].
 
 *** Dates importantes
 
-|---------------------------------+------------|
-| Deadline pour l’envoi de résumé | 31/08/2022 |
-|                                 |            |
-| Réponse aux auteurs             | 16/09/2022 |
-|                                 |            |
-| JAIF                            | 09/11/2022 |
-|                                 |            |
-|---------------------------------+------------|
+|--------------------------------+------------|
+| Date limite pour la soumission | 31/08/2022 |
+|                                |            |
+| Réponse aux auteurs            | 16/09/2022 |
+|                                |            |
+| JAIF                           | 09/11/2022 |
+|                                |            |
+|--------------------------------+------------|
