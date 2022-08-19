@@ -42,7 +42,7 @@ main = do
         route $ gsubRoute "pages/" (const "") `composeRoutes` setExtension "html"
         compile $
             pandocCompiler
-                >>= loadAndApplyTemplate "templates/default.html" builtPageCtx
+                >>= loadAndApplyTemplate "templates/default.html" pageCtx
                 >>= relativizeUrls
 
     -- templates
@@ -56,12 +56,9 @@ main = do
     create ["sitemap.xml"] $ do
         route idRoute
         compile $ do
-            -- posts <- recentFirst =<< loadAll "posts/*"
-            -- pages <- loadAll "pages/*"
-            -- let allPages = pages ++ posts
-            let sitemapCtx = builtPageCtx <> gitDate
+            pages <- loadAll (fromRegex "pages/[^_].*")
             makeItem ""
-                >>= loadAndApplyTemplate "templates/sitemap.xml" sitemapCtx
+                >>= loadAndApplyTemplate "templates/sitemap.xml" (sitemapCtx pages)
 
 feedConfiguration :: FeedConfiguration
 feedConfiguration = FeedConfiguration
@@ -73,20 +70,20 @@ feedConfiguration = FeedConfiguration
     }
 
 -- Context builders
-builtPageCtx :: Context String
-builtPageCtx =  constField "siteroot" (feedRoot feedConfiguration)
-             <> listField "entries" builtPageCtx (loadAll $ "pages/*" .||. "posts/*")
-             <> dateField "date" "%A, %e %B %Y"
-             <> dateField "isodate" "%F"
-             <> gitDate
-             <> gitCommit
-             <> defaultContext
+sitemapCtx :: [Item String] -> Context String
+sitemapCtx pages = listField "entries" pageCtx (pure pages)
+                   <> dateField "date" "%A, %e %B %Y"
+                   <> dateField "isodate" "%F"
+                   <> defaultContext
 
-postCtx :: Context String
-postCtx =  dateField "date" "%B %e, %Y"
-        <> dateField "dateArchive" "%b %e"
-        <> modificationTimeField "mtime" "%F"
-        <> defaultContext
+pageCtx :: Context String
+pageCtx = constField "siteroot" (feedRoot feedConfiguration)
+          <> dateField "date" "%B %e, %Y"
+          <> dateField "dateArchive" "%b %e"
+          <> modificationTimeField "mtime" "%F"
+          <> gitDate
+          <> gitCommit
+          <> defaultContext
 
 
 -- | Extracts git commit info for the current Item
