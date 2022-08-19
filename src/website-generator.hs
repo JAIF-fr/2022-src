@@ -45,54 +45,6 @@ main = do
                 >>= loadAndApplyTemplate "templates/default.html" builtPageCtx
                 >>= relativizeUrls
 
-    -- the photo gallery -------------------------
-
-    -- -- copy original images
-    -- let expUImages :: Pattern
-    --     expUImages =      "images/photos/*.jepg"
-    --                  .||. "images/photos/*.jpg"
-    --                  .||. "images/photos/*.JPG"
-    --                  .||. "images/photos/*.png"
-
-    -- match expUImages $ do
-    --   route $ gsubRoute "photos/" (const "")
-    --   compile $ resizeImage 2048 2048
-
-    -- -- create thumbnails
-    -- match expUImages $ version "small" $ do
-    --   route $
-    --     gsubRoute "photos/" (const "") `composeRoutes` appendFileRoute "small"
-    --   compile $ resizeImage 600 600
-
-    -- -- the gallery page
-    -- create ["photos.html"] $ do
-    --   route idRoute
-    --   compile $ do
-    --     let imageCtx :: Context a
-    --         imageCtx = urlField "url"
-    --                    <> basenameField "id"
-    --                    <> pathField "path"
-    --                    <> mdateFile "mdate"
-    --                    <> imageAlt "alt"
-
-    --         photosCtx :: Context String
-    --         photosCtx = listField "photos" (imageCtx :: Context ())
-    --                     (loadAll ("images/photos/*" .&&. hasNoVersion))
-    --                     <> listField "photos-small" (imageCtx :: Context ())
-    --                        (loadAll ("images/photos/*" .&&. hasVersion "small"))
-    --                     <> defaultContext
-    --     makeItem ""
-    --       >>= loadAndApplyTemplate "templates/photos.html" photosCtx
-    --       >>= loadAndApplyTemplate "templates/default.html"
-    --           -- the git date info is extracted for the directory
-    --           -- containing the input images
-    --           (gitDate' (const "images/photos")
-    --            <> gitCommit' (const "images/photos")
-    --            <> constField "title" "photos de la journée"
-    --            <> builtPageCtx)
-    --       >>= relativizeUrls
-    --   -- MAYBE  resize images so that they load faster.
-
     -- templates
     match "templates/*" $ compile templateCompiler
 
