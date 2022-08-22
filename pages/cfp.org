@@ -8,7 +8,7 @@
 
 Les présentations en français ou en anglais se feront en présentiel
 uniquement.  Pour présenter vos travaux, vous devez soumettre [[https://easychair.org/conferences/?conf=jaif2022][sur
-easychair]] les informations suivantes avant le 31 août 2022 :
+easychair]] les informations suivantes avant le ~~31 août 2022~~ 7 septembre 2022 :
 
 1. Présentation orale et/ou poster
 2. Un résumé de votre présentation (de 15 lignes à une page max au format libre),
@@ -24,11 +24,11 @@ Pour toute question, vous pouvez envoyer [[mailto:jaif@saxifrage.saclay.cea.fr?s
 
 *** Dates importantes
 
-|--------------------------------+------------|
-| Date limite pour la soumission | 31/08/2022 |
-|                                |            |
-| Réponse aux auteurs            | 16/09/2022 |
-|                                |            |
-| JAIF                           | 09/11/2022 |
-|                                |            |
-|--------------------------------+------------|
+|--------------------------------+---------------------------|
+| Date limite pour la soumission | ~~31/08/2022~~ 07/09/2022 |
+|                                |                           |
+| Réponse aux auteurs            | 16/09/2022                |
+|                                |                           |
+| JAIF                           | 09/11/2022                |
+|                                |                           |
+|--------------------------------+---------------------------|
