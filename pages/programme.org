@@ -8,11 +8,22 @@ vocation à être ouvertes aux interactions avec l'assemblée, et un
 temps de questions et de discussions sera réservé à la fin de chaque
 session.
 
+Les horaires de début et de fin de journée sont calées pour être
+compatibles avec les TGV à l'arrivée et au départ de la gare de
+Valence TGV.
+
 Des [[./infos-pratiques.html][navettes]] seront affrétées en début et en fin de journée pour les
 transferts vers la gare de Valence TGV.
 
-| 10h00 |   | Ouverture de la journée    |   |
-|       |   |                            |   |
-|       |   | (en cours de construction) |   |
-|       |   |                            |   |
-| 16h30 |   | Fin de la journée          |   |
+| 09h00 |   | Ouverture de la salle - Accueil |   |
+| 10h10 |   | Ouverture de la journée         |   |
+|       |   | (en cours de construction)      |   |
+| 17h00 |   | Fin de la journée               |   |
+
+Nous proposons aux participants de CSAW de poursuivre la journée avec
+l'ouverture de [[https://www.csaw.io/europe][CSAW]], puis un social event à proximité de l'ESISAR.
+
+
+| 18h00 | Conférences [[https://www.csaw.io/europe][CSAW]]                  |
+| 19h30 | Welcome reception [[https://www.csaw.io/europe][CSAW]] - Cocktail |
+| 21h00 | Social Event                      |
