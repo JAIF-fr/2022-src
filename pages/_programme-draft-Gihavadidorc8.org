@@ -26,6 +26,7 @@ transferts vers la gare de Valence TGV.
 |       | [[#alshaer][Ihab Al Shaer]]                        | Variable-Length Instruction Set: Feature or Bug?                                                                         |   |
 | 12h40 |                                      | Déjeuner - *Poster 2*                                                                                                    |   |
 | 14h00 | *Session 3*                          | *Attaques en fautes avancées*                                                                                            |   |
+| 10h00 |                                      | Ouverture du flux zoom pour participation à distance                                                                |   |
 |       | [[#fanjas][Clément Fanjas]]                       | Méthode combinée d'Injection de faute et d'analyse Side-Channel temps réel pour contourner le Secure-Boot d'Android |   |
 |       | [[#dumont][Matthieu Dumont]]                      | Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser          |   |
 |       | [[#anceau][Stephanie Anceau]]                     | Faulting real-world devices with X-Rays beams                                                                            |   |
