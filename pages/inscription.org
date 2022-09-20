@@ -4,15 +4,18 @@
 
 * Inscription
 
-Les inscriptions ne sont pas encore ouvertes.
-
-
-# Les inscriptions sont ouvertes!
+Les inscriptions sont ouvertes!
 
 *La participation à la journée est gratuite mais l'inscription est
 obligatoire* pour l'organisation logistique de la journée.  Le nombre
 de participants en présentiel est limité par la capacité d'accueil de
 la salle.
+
+
+#+begin_export html
+<iframe src="https://framaforms.org/jaif-2022-1663147789" width="100%" frameborder="0" style="overflow: hidden; height: 100%; position: absolute;"></iframe>
+#+end_export
+# <iframe src="https://framaforms.org/jaif-2022-1663147789" width="100%" height="1600" style="border:none"></iframe>
 
 # *[2022-09-14 mar.] Les inscriptions sont closes pour la participation
 # en présentiel.* *Vous pouvez toujours vous inscrire pour une
