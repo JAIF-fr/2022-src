@@ -15,27 +15,27 @@ Valence TGV.
 Des [[./infos-pratiques.html][navettes]] seront affrétées en début et en fin de journée pour les
 transferts vers la gare de Valence TGV.
 
-| 09h00 |                                      | Ouverture de la salle - Accueil                                                                                          |   |
-| 10h10 | Vincent Beroulle                     | Ouverture de la journée                                                                                                  |   |
-| 10h20 | *Session 1*                          | *Attaques en fautes sur implémentations logicielles*                                                                     |   |
-|       | [[#roch][Jean Roch]] - présentation invitée     | tbd                                                                                                                      |   |
-|       | [[#giraud][Vincent Giraud]]                       | L'attaque en faute : la bête noire des boîtes blanches                                                                   |   |
-| 11h10 |                                      | Pause café - *Poster 1*                                                                                                  |   |
-| 11h50 | *Session 2*                          | *Modélisation de fautes*                                                                                                 |   |
-|       | [[#tollec][Simon Tollec]]                         | Exploration of Fault Effects on Formal RISC-V Microarchitecture Models                                                   |   |
-|       | [[#alshaer][Ihab Al Shaer]]                        | Variable-Length Instruction Set: Feature or Bug?                                                                         |   |
-| 12h40 |                                      | Déjeuner - *Poster 2*                                                                                                    |   |
-| 14h00 | *Session 3*                          | *Attaques en fautes avancées*                                                                                            |   |
+| 09h00 |                                      | Ouverture de la salle - Accueil                                                                                     |   |
 | 10h00 |                                      | Ouverture du flux zoom pour participation à distance                                                                |   |
+| 10h10 | Vincent Beroulle                     | Ouverture de la journée                                                                                             |   |
+| 10h20 | *Session 1*                          | *Attaques en fautes sur implémentations logicielles*                                                                |   |
+|       | [[#roch][Jean Roch]] - présentation invitée     | tbd                                                                                                                 |   |
+|       | [[#giraud][Vincent Giraud]]                       | L'attaque en faute : la bête noire des boîtes blanches                                                              |   |
+| 11h10 |                                      | Pause café - [[#posters][session posters]]                                                                                             |   |
+| 11h50 | *Session 2*                          | *Modélisation de fautes*                                                                                            |   |
+|       | [[#tollec][Simon Tollec]]                         | Exploration of Fault Effects on Formal RISC-V Microarchitecture Models                                              |   |
+|       | [[#alshaer][Ihab Al Shaer]]                        | Variable-Length Instruction Set: Feature or Bug?                                                                    |   |
+| 12h40 |                                      | Déjeuner -      [[#posters][session posters]]                                                                                            |   |
+| 14h00 | *Session 3*                          | *Attaques en fautes avancées*                                                                                       |   |
 |       | [[#fanjas][Clément Fanjas]]                       | Méthode combinée d'Injection de faute et d'analyse Side-Channel temps réel pour contourner le Secure-Boot d'Android |   |
-|       | [[#dumont][Matthieu Dumont]]                      | Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser          |   |
-|       | [[#anceau][Stephanie Anceau]]                     | Faulting real-world devices with X-Rays beams                                                                            |   |
-| 15h15 |                                      | Pause café - *Poster 3*                                                                                                  |   |
-| 15h50 | *Session 4*                          | *Outils d’injection de fautes*                                                                                           |   |
-|       | [[#maistri][Paolo Maistri]] - présentation invitée | Toward a Low-Cost Methodology for EM Fault Emulation on FPGA                                                             |   |
-|       | [[#boher][Noémie Boher]]                         | A Fast Characterization Method for Semi-invasive Fault Injection Attacks                                                 |   |
-| 16h40 | Comité d’organisation                | Clôture de la journée                                                                                                    |   |
-| 17h00 |                                      | Fin de la journée                                                                                                        |   |
+|       | [[#dumont][Matthieu Dumont]]                      | Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser     |   |
+|       | [[#anceau][Stephanie Anceau]]                     | Faulting real-world devices with X-Rays beams                                                                       |   |
+| 15h15 |                                      | Pause café -      [[#posters][session posters]]                                                                                          |   |
+| 15h50 | *Session 4*                          | *Outils d’injection de fautes*                                                                                      |   |
+|       | [[#maistri][Paolo Maistri]] - présentation invitée | Toward a Low-Cost Methodology for EM Fault Emulation on FPGA                                                        |   |
+|       | [[#boher][Noémie Boher]]                         | A Fast Characterization Method for Semi-invasive Fault Injection Attacks                                            |   |
+| 16h40 | Comité d’organisation                | Clôture de la journée                                                                                               |   |
+| 17h00 |                                      | Fin de la journée                                                                                                   |   |
 
 Nous proposons aux participants de JAIF de poursuivre la journée avec
 l'ouverture de [[https://www.csaw.io/europe][CSAW]], puis un social event à proximité de l'ESISAR.
@@ -44,6 +44,23 @@ l'ouverture de [[https://www.csaw.io/europe][CSAW]], puis un social event à pro
 | 18h00 | Conférences [[https://www.csaw.io/europe][CSAW]]                  |
 | 19h30 | Welcome reception [[https://www.csaw.io/europe][CSAW]] - Cocktail |
 | 21h00 | Social Event                      |
+
+*** Sessions posters
+:PROPERTIES:
+:CUSTOM_ID: posters
+:END:
+
+Ronan Lashermes − INRIA : Traitor: pertubation d’horloge pour l’injection de fautes nombreuses par défaillance de l’échantillonage
+
+Dmitrii Koshelev − Telecom Paris : Subgroup membership testing on elliptic curves via the Tate pairing
+
+Kevin Hector − CEA-Leti : A Closer Look at Evaluating theBit-Flip Attack Against Deep Neural Networks
+
+Paul Grandamme – Laboratoire Hubert Curien : Attaque laser de primitives de sécurité non alimentées
+
+Nasr-Eddine Ouldei Tebina – TIMA : X-Ray Fault Injection: Reviewing Defensive Approaches from a Security Perspective
+
+tbd – Eshard : Fault Injection Attack on Modern SoCs
 
 *** tbd
 :PROPERTIES:
