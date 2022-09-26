@@ -95,7 +95,8 @@ tbd – Eshard : Fault Injection Attack on Modern SoCs
 :PROPERTIES:
 :CUSTOM_ID: fanjas
 :END:
-*Clément Fanjas* - /(CEA-Leti)/,
+Clément Fanjas - /(CEA-Leti)/,
+*Simon Pontié*  - /(CEA-Leti)/,
 
 ***  Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser
 :PROPERTIES:
