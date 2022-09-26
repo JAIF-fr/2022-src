@@ -52,8 +52,6 @@ l'ouverture de [[https://www.csaw.io/europe][CSAW]], puis un social event à pro
 
 Ronan Lashermes − INRIA : Traitor: pertubation d’horloge pour l’injection de fautes nombreuses par défaillance de l’échantillonage
 
-Dmitrii Koshelev − Telecom Paris : Subgroup membership testing on elliptic curves via the Tate pairing
-
 Kevin Hector − CEA-Leti : A Closer Look at Evaluating theBit-Flip Attack Against Deep Neural Networks
 
 Paul Grandamme – Laboratoire Hubert Curien : Attaque laser de primitives de sécurité non alimentées
