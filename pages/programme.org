@@ -73,6 +73,17 @@ tbd – Eshard : Fault Injection Attack on Modern SoCs
 :END:
 
 *Vincent Giraud* (ENS, Ingenico),
+Guillaume Bouffard (ENS,  ANSSI)
+
+
+*Résumé*.
+    Pour réaliser des opérations sensibles, il est courant d'utiliser des composants sécurisés : grâce à leurs diverses protections, ils peuvent faire office de racine de confiance. Cependant, on peut être contraint d'utiliser des solutions alternatives dans la mesure où ils ne sont pas disponibles dans tous les systèmes d'information. Les industriels déploient alors une approche basée sur l'obscurcissement logiciel, moins sécurisée que celles basées sur un composant matériel. La cryptographie en boîte blanche en fait partie : chaque étape intermédiaire est précalculée et masquée, en conservant malgré tout la sémantique globale. Bien qu'elle soit purement logicielle, des attaques matérielles ont pu y être transposées. En instrumentant un programme, on peut reproduire des attaques par perturbation en y créant des états inattendus.
+
+    Les besoins de l'industrie tendant à se diversifier, la recherche met aujourd'hui l'accent sur des fonctionnalités telles que la résistance aux attaques quantiques et les possibilités asymétriques des schémas cryptographiques. Ces aspects font ressurgir des spécifications comme celle de McEliece. Dans nos travaux, nous étudions la sécurité d'une boîte blanche cryptographique implémentant l'algorithme McEliece et sa résistance aux attaques dites «matérielles». Dans cet exposé, nous questionnerons également l'applicabilité dans le monde logiciel des contre-mesures existantes utilisées dans les composants matériels.
+
+*Bio*.
+Vincent Giraud est doctorant à l'École Normale Supérieure (ENS) en sécurité informatique, au service d'Ingenico. Après des études à l'Institut National des Sciences Appliquées (INSA) de Rennes et au Rochester Institute of Technology (RIT), il rejoint l'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) pour un stage de fin d'étude sous la tutelle de Guillaume Bouffard, basé sur la sécurité applicative des cartes à puce. Il réalise actuellement sa thèse sur la sécurisation des processus dans des environnements non contrôlés chez Ingenico.
+
 
 *** Toward a Low-Cost Methodology for EM Fault Emulation on FPGA
 
