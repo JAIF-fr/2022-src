@@ -77,7 +77,6 @@ tbd – Eshard : Fault Injection Attack on Modern SoCs
 *Vincent Giraud* (ENS, Ingenico),
 Guillaume Bouffard (ENS,  ANSSI)
 
-
 *Résumé*.
     Pour réaliser des opérations sensibles, il est courant d'utiliser des composants sécurisés : grâce à leurs diverses protections, ils peuvent faire office de racine de confiance. Cependant, on peut être contraint d'utiliser des solutions alternatives dans la mesure où ils ne sont pas disponibles dans tous les systèmes d'information. Les industriels déploient alors une approche basée sur l'obscurcissement logiciel, moins sécurisée que celles basées sur un composant matériel. La cryptographie en boîte blanche en fait partie : chaque étape intermédiaire est précalculée et masquée, en conservant malgré tout la sémantique globale. Bien qu'elle soit purement logicielle, des attaques matérielles ont pu y être transposées. En instrumentant un programme, on peut reproduire des attaques par perturbation en y créant des états inattendus.
 
@@ -85,7 +84,6 @@ Guillaume Bouffard (ENS,  ANSSI)
 
 *Bio*.
 Vincent Giraud est doctorant à l'École Normale Supérieure (ENS) en sécurité informatique, au service d'Ingenico. Après des études à l'Institut National des Sciences Appliquées (INSA) de Rennes et au Rochester Institute of Technology (RIT), il rejoint l'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) pour un stage de fin d'étude sous la tutelle de Guillaume Bouffard, basé sur la sécurité applicative des cartes à puce. Il réalise actuellement sa thèse sur la sécurisation des processus dans des environnements non contrôlés chez Ingenico.
-
 
 *** Toward a Low-Cost Methodology for EM Fault Emulation on FPGA
 
@@ -103,6 +101,16 @@ Vincent Giraud est doctorant à l'École Normale Supérieure (ENS) en sécurité
 :CUSTOM_ID: alshaer
 :END:
 *Ihab Al Shaer* (Grenoble-INP LCIS)
+
+*résumé*.
+With the increasing complexity of embedded systems, the use of variable-length instruction sets became essential, in order to achieve higher code density and better performance. However, security aspects must also be considered, in particular with the continuous improvement of attack techniques and equipment.
+
+Hardware designers and software developers lack accurate hardware and software fault models to evaluate the vulnerabilities of their designs or codes, in presence of fault attacks, especially with the increasing complexity of microprocessors’ architectures.
+
+In this work, which aims at providing realistic fault models, clock glitch fault injection campaigns, using the ChiWhipserer environment, have been performed.  The objective behind these experiments is to provide proper characterization, at the instruction set architecture (ISA) level, for several faulty behaviors that can be observed experimentally when targeting a processor running a variable-length instruction set. Such characterization would help in proposing suitable fault models.
+
+*bio*.
+Ihab Alshaer received B.Eng. degree in computer systems engineering from Birzeit University, Palestine in 2015. He worked as a teaching assistant at the department of computer science at Birzeit University till 2018. He received his Master 1 degree in informatics and Master 2 degree in cybersecurity from the University of Grenoble Alpes (UGA), France in 2019 and 2020 respectively. He is currently a Ph.D. student at UGA. He is working under the CLAM project in a joint position at LCIS and TIMA.
 
 ***  Méthode combinée d'Injection de faute et d'analyse Side-Channel temps réel pour contourner le Secure-Boot d'Android
 :PROPERTIES:
