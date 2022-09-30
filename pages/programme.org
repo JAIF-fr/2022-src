@@ -28,7 +28,7 @@ transferts vers la gare de Valence TGV.
 | 12h40 |                                      | Déjeuner -      [[#posters][session posters]]                                                                                     |   |
 | 14h00 | *Session 3*                          | *Attaques en fautes avancées*                                                                                       |   |
 |       | [[#fanjas][Clément Fanjas]]                       | Méthode combinée d'Injection de faute et d'analyse Side-Channel temps réel pour contourner le Secure-Boot d'Android |   |
-|       | [[#dumont][Matthieu Dumont]]                      | Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser     |   |
+|       | [[#dumont][Mathieu Dumont]]             | Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser     |   |
 |       | [[#anceau][Stephanie Anceau]]                     | Faulting real-world devices with X-Rays beams                                                                       |   |
 | 15h15 |                                      | Pause café -      [[#posters][session posters]]                                                                                   |   |
 | 15h50 | *Session 4*                          | *Outils d’injection de fautes*                                                                                      |   |
@@ -102,7 +102,7 @@ Clément Fanjas - /(CEA-Leti)/,
 :PROPERTIES:
 :CUSTOM_ID: dumont
 :END:
-*Matthieu Dumont* - /(CEA-Leti)/,
+*Mathieu Dumont* - /(CEA-Leti)/,
 
 ***  Faulting real-world devices with X-Rays beams
 :PROPERTIES:
