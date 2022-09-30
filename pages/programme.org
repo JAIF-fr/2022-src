@@ -65,59 +65,59 @@ tbd – Eshard : Fault Injection Attack on Modern SoCs
 :CUSTOM_ID: coulon
 :END:
 
-*Jean-Roch Coulon* /(INVIA / Thales DIS)/
+*Jean-Roch Coulon* (INVIA / Thales DIS)
 
 *** L'attaque en faute : la bête noire des boîtes blanches
 :PROPERTIES:
 :CUSTOM_ID: giraud
 :END:
 
-*Vincent Giraud* - /(ENS & Ingenico)/,
+*Vincent Giraud* (ENS, Ingenico),
 
 *** Toward a Low-Cost Methodology for EM Fault Emulation on FPGA
 
-*Paolo Maistri* - /(CNRS TIMA)/,
+*Paolo Maistri* (CNRS, TIMA),
 
 ***  Exploration of Fault Effects on Formal RISC-V Microarchitecture Models
 :PROPERTIES:
 :CUSTOM_ID: tollec
 :END:
 
- *Simon Tollec* - /(CEA-List)/,
+ *Simon Tollec* (CEA-List),
 
 *** Variable-Length Instruction Set: Feature or Bug?
 :PROPERTIES:
 :CUSTOM_ID: alshaer
 :END:
-*Ihab Al Shaer* - /(Grenoble-INP LCIS)/
+*Ihab Al Shaer* (Grenoble-INP LCIS)
 
 ***  Méthode combinée d'Injection de faute et d'analyse Side-Channel temps réel pour contourner le Secure-Boot d'Android
 :PROPERTIES:
 :CUSTOM_ID: fanjas
 :END:
-Clément Fanjas - /(CEA-Leti)/,
-*Simon Pontié*  - /(CEA-Leti)/,
+Clément Fanjas (CEA-Leti),
+*Simon Pontié*  (CEA-Leti),
 
 ***  Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser
 :PROPERTIES:
 :CUSTOM_ID: dumont
 :END:
-*Mathieu Dumont* - /(CEA-Leti)/,
+*Mathieu Dumont* (CEA-Leti),
 
 ***  Faulting real-world devices with X-Rays beams
 :PROPERTIES:
 :CUSTOM_ID: anceau
 :END:
-*Stephanie Anceau*, /(CEA-Leti-Cesti)/,
+*Stephanie Anceau*, (CEA-Leti/Cesti),
 
 ***  Toward a Low-Cost Methodology for EM Fault Emulation on FPGA
 :PROPERTIES:
 :CUSTOM_ID: maistri
 :END:
-*Paolo Maistri* - /(CNRS - TIMA)/,
+*Paolo Maistri* (CNRS, TIMA),
 
 ***  A Fast Characterization Method for Semi-invasive Fault Injection Attacks
 :PROPERTIES:
 :CUSTOM_ID: boher
 :END:
-*Noémie Boher* - /(Brightsight)/,
+*Noémie Boher* (Brightsight),
