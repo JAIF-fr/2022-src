@@ -117,6 +117,10 @@ Clément Fanjas (CEA-Leti),
 :END:
 *Mathieu Dumont* (CEA-Leti),
 
+
+*bio*.
+Mathieu Dumont a terminé sa thèse en octobre 2020 sur la Modélisation de l’injection de faute électromagnétiques sur circuit intégré sécurisés et contre-mesures, à l’Université de Montpellier (LIRMM, STMicroelectronics).Il occupe un post-doc au sein du CEA-Leti, dans l’équipe commune de recherche entre le CEA-Leti et l’Ecole des Mines de Saint-Etienne au Centre de Microélectronique de Provence (CMP). Dans le cadre du projet Européen InSecTT, de l’IRT Nanoelec PULSE, ses travaux portent sur la sécurité de l’Intelligence Artificielle embarquée et plus spécifiquement sur les attaques par injection de fautes laser sur des réseaux de neurones embarqués sur microcontrôleur 32-bit.
+
 ***  Faulting real-world devices with X-Rays beams
 :PROPERTIES:
 :CUSTOM_ID: anceau
