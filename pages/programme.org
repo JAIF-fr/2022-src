@@ -15,27 +15,27 @@ Valence TGV.
 Des [[./infos-pratiques.html][navettes]] seront affrétées en début et en fin de journée pour les
 transferts vers la gare de Valence TGV.
 
-| 09h00 |                                      | Ouverture de la salle - Accueil                                                                                     |   |
-| 10h00 |                                      | Ouverture du flux zoom pour participation à distance                                                                |   |
-| 10h10 | Vincent Beroulle                     | Ouverture de la journée                                                                                             |   |
-| 10h20 | *Session 1*                          | *Attaques en fautes sur implémentations logicielles*                                                                |   |
+| 09h00 |                                         | Ouverture de la salle - Accueil                                                                                     |   |
+| 10h00 |                                         | Ouverture du flux zoom pour participation à distance                                                                |   |
+| 10h10 | Vincent Beroulle                        | Ouverture de la journée                                                                                             |   |
+| 10h20 | *Session 1*                             | *Attaques en fautes sur implémentations logicielles*                                                                |   |
 |       | [[#coulon][Jean-Roch Coulon]] - présentation invitée | Attaque en fautes du processeur RISC-V CVA6                                                                         |   |
-|       | [[#giraud][Vincent Giraud]]                       | L'attaque en faute : la bête noire des boîtes blanches                                                              |   |
-| 11h10 |                                      | Pause café - [[#posters][session posters]]                                                                                        |   |
-| 11h50 | *Session 2*                          | *Modélisation de fautes*                                                                                            |   |
-|       | [[#tollec][Simon Tollec]]                         | Exploration of Fault Effects on Formal RISC-V Microarchitecture Models                                              |   |
-|       | [[#alshaer][Ihab Al Shaer]]                        | Variable-Length Instruction Set: Feature or Bug?                                                                    |   |
-| 12h40 |                                      | Déjeuner -      [[#posters][session posters]]                                                                                     |   |
-| 14h00 | *Session 3*                          | *Attaques en fautes avancées*                                                                                       |   |
-|       | [[#fanjas][Clément Fanjas]]                       | Méthode combinée d'Injection de faute et d'analyse Side-Channel temps réel pour contourner le Secure-Boot d'Android |   |
-|       | [[#dumont][Mathieu Dumont]]             | Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser     |   |
-|       | [[#anceau][Stephanie Anceau]]                     | Faulting real-world devices with X-Rays beams                                                                       |   |
-| 15h15 |                                      | Pause café -      [[#posters][session posters]]                                                                                   |   |
-| 15h50 | *Session 4*                          | *Outils d’injection de fautes*                                                                                      |   |
-|       | [[#maistri][Paolo Maistri]] - présentation invitée | Toward a Low-Cost Methodology for EM Fault Emulation on FPGA                                                        |   |
-|       | [[#boher][Noémie Boher]] -                       | A Fast Characterization Method for Semi-invasive Fault Injection Attacks                                            |   |
-| 16h40 | Comité d’organisation                | Clôture de la journée                                                                                               |   |
-| 17h00 |                                      | Fin de la journée                                                                                                   |   |
+|       | [[#giraud][Vincent Giraud]]                          | L'attaque en faute : la bête noire des boîtes blanches                                                              |   |
+| 11h10 |                                         | Pause café - [[#posters][session posters]]                                                                                        |   |
+| 11h50 | *Session 2*                             | *Modélisation de fautes*                                                                                            |   |
+|       | [[#tollec][Simon Tollec]]                            | Exploration of Fault Effects on Formal RISC-V Microarchitecture Models                                              |   |
+|       | [[#alshaer][Ihab Al Shaer]]                           | Variable-Length Instruction Set: Feature or Bug?                                                                    |   |
+| 12h40 |                                         | Déjeuner -      [[#posters][session posters]]                                                                                     |   |
+| 14h00 | *Session 3*                             | *Attaques en fautes avancées*                                                                                       |   |
+|       | [[#fanjas][Clément Fanjas]]                          | Méthode combinée d'Injection de faute et d'analyse Side-Channel temps réel pour contourner le Secure-Boot d'Android |   |
+|       | [[#dumont][Mathieu Dumont]]                          | Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser     |   |
+|       | [[#anceau][Stephanie Anceau]]                        | Faulting real-world devices with X-Rays beams                                                                       |   |
+| 15h15 |                                         | Pause café -      [[#posters][session posters]]                                                                                   |   |
+| 15h50 | *Session 4*                             | *Outils d’injection de fautes*                                                                                      |   |
+|       | [[#maistri][Paolo Maistri]] - présentation invitée    | Toward a Low-Cost Methodology for EM Fault Emulation on FPGA                                                        |   |
+|       | [[#boher][Noémie Beringuier-Boher]]                 | A Fast Characterization Method for Semi-invasive Fault Injection Attacks                                            |   |
+| 16h40 | Comité d’organisation                   | Clôture de la journée                                                                                               |   |
+| 17h00 |                                         | Fin de la journée                                                                                                   |   |
 
 Nous proposons aux participants de JAIF de poursuivre la journée avec
 l'ouverture de [[https://www.csaw.io/europe][CSAW]], puis un social event à proximité de l'ESISAR.
@@ -117,6 +117,10 @@ He is currently completing his Ph.D. in the French Alternative Energies and Atom
 :CUSTOM_ID: alshaer
 :END:
 *Ihab Al Shaer* (Grenoble-INP LCIS)
+Brice Colombier (TIMA),
+Christophe Deleuze (LCIS),
+Vincent Beroulle (LCIS),
+Paolo Maistri (TIMA),
 
 *résumé*.
 With the increasing complexity of embedded systems, the use of variable-length instruction sets became essential, in order to achieve higher code density and better performance. However, security aspects must also be considered, in particular with the continuous improvement of attack techniques and equipment.
@@ -140,7 +144,9 @@ Clément Fanjas (CEA-Leti),
 :CUSTOM_ID: dumont
 :END:
 *Mathieu Dumont* (CEA-Leti),
-
+Pierre-Alain Moellic (CEA-Leti),
+Jean-Max Dutertre (MSE, Centre Microélectronique de Provence),
+Kévin Hector (CEA-Leti)
 
 *bio*.
 Mathieu Dumont a terminé sa thèse en octobre 2020 sur la Modélisation de l’injection de faute électromagnétiques sur circuit intégré sécurisés et contre-mesures, à l’Université de Montpellier (LIRMM, STMicroelectronics).Il occupe un post-doc au sein du CEA-Leti, dans l’équipe commune de recherche entre le CEA-Leti et l’Ecole des Mines de Saint-Etienne au Centre de Microélectronique de Provence (CMP). Dans le cadre du projet Européen InSecTT, de l’IRT Nanoelec PULSE, ses travaux portent sur la sécurité de l’Intelligence Artificielle embarquée et plus spécifiquement sur les attaques par injection de fautes laser sur des réseaux de neurones embarqués sur microcontrôleur 32-bit.
@@ -149,7 +155,12 @@ Mathieu Dumont a terminé sa thèse en octobre 2020 sur la Modélisation de l’
 :PROPERTIES:
 :CUSTOM_ID: anceau
 :END:
-*Stephanie Anceau*, (CEA-Leti/Cesti),
+*Stephanie Anceau* (CEA-Leti/Cesti),
+Laurent Maingault  (CEA-Leti/Cesti),
+Luc Salvo,
+Sophie Bouat,
+Remi Granger,
+Pierre Lhuissier
 
 ***  Toward a Low-Cost Methodology for EM Fault Emulation on FPGA
 :PROPERTIES:
@@ -161,4 +172,8 @@ Mathieu Dumont a terminé sa thèse en octobre 2020 sur la Modélisation de l’
 :PROPERTIES:
 :CUSTOM_ID: boher
 :END:
-*Noémie Boher* (Brightsight),
+
+Lichao Wu (Delft University of Technology),
+Gerard Ribera  (Independent Researcher),
+*Noémie Beringuier-Boher* (Brightsight),
+Stjepan Picek (Delft University of Technology),
