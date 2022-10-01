@@ -94,7 +94,23 @@ Vincent Giraud est doctorant à l'École Normale Supérieure (ENS) en sécurité
 :CUSTOM_ID: tollec
 :END:
 
- *Simon Tollec* (CEA-List),
+*Simon Tollec* (CEA-List),
+Mihail Asavoae (CEA-List),
+Damien Couroussé (CEA-List),
+Karine Heydemann (Sorbonne Univ., INVIA / Thales DIS),
+Mathieu Jan (CEA-List)
+
+*résumé*.
+Understanding what happens in a circuit after a fault injection and analyzing the consequences is a long and meticulous process.
+Usually, we cannot access the microarchitecture's internal state, and fault models at the ISA level are used since we can only retrieve limited information like the Memory or the Register File contents.
+However, recent work has highlighted that some observed effects are difficult to explain or to model at the ISA level without any knowledge of the microarchitecture.
+The presentation will introduce a formal verification-based workflow for modeling software/hardware systems in order to explore the effects of fault injections and evaluate the system's robustness to these attacks.
+We illustrate this workflow on a PIN authentication code embedding different software countermeasures and on two implementations of the RISC-V CV32E40P core: the original implementation and a protected one.
+We expose various vulnerabilities and also confirm the effectiveness of the proposed countermeasures.
+
+*bio*.
+Simon Tollec obtained his Master of Science in the engineering of Telecom Paris in 2021 in the fields of embedded systems, data science, and network security.
+He is currently completing his Ph.D. in the French Alternative Energies and Atomic Energy Commission (CEA) on the subject of the formal verification of security properties on Software/Hardware systems under the influence of faults injection.
 
 *** Variable-Length Instruction Set: Feature or Bug?
 :PROPERTIES:
