@@ -177,3 +177,12 @@ Lichao Wu (Delft University of Technology),
 Gerard Ribera  (Independent Researcher),
 *Noémie Beringuier-Boher* (Brightsight),
 Stjepan Picek (Delft University of Technology),
+
+
+
+*résumé*.
+Semi-invasive fault injection attacks are powerful techniques well-known by attackers and secure embedded system designers. When performing such attacks, the selection of the fault injection parameters is of utmost importance and usually based on the experience of the attacker. In this work, we present a novel methodology to perform a fast characterization of the fault injection impact on a target, depending on the possible attack parameters. We experimentally show our methodology to be a successful one when targeting different algorithms such as DES and AES encryption and then extend to the full characterization with the help of deep learning. Finally, we show how the characterization results are transferable between different targets.
+
+
+*bio*.
+Noemie Beringuier-Boher received a M.Sc. degree in microelectronics engineering from Polytech' Montpellier, Montpellier University of Sciences in 2011. Then she received a PhD degree in nanoelectronics from the University of Grenoble in 2015. She pursued her research work in Fault Injection, with two post-docs at the Ecoles des Mines de Saint-Etienne, Gardanne. And decided in 2018 to join SGS Brightsight, as a Fault Injection evaluator. Now she is in charge of the Fault Injection domain in this company.
