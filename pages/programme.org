@@ -137,7 +137,29 @@ Ihab Alshaer received B.Eng. degree in computer systems engineering from Birzeit
 :CUSTOM_ID: fanjas
 :END:
 Clément Fanjas (CEA-Leti),
+Clément Gaine (CEA-Leti),
+Driss Aboulkassimi (CEA-Leti),
 *Simon Pontié*  (CEA-Leti),
+Olivier Potin (Mines Saint-Étienne, CMP)
+
+*résumé*.
+Le Secure-Boot est une fonction de sécurité critique qui assure
+l'authenticité et l'intégrité d'un code avant son exécution. Dans les
+System-on-Chip, ce processus permet d'éviter l’exécution de codes
+malveillants. Nous présenterons une nouvelle méthode de
+synchronisation utilisant la détection d’une activité fréquentielle
+caractéristique dans les émanations electromagnétiques de la
+cible. L'activation de cette fréquence sert d'évènement déclencheur de
+l’impulsion électromagnétique. Cette méthode a été exploitée pour
+synchroniser une injection de faute electromagnétique (EMFI) avec une
+instruction vulnérable présente dans l'étape d'authentification du
+noyau Linux du Secure-Boot d'un Android exécuté par un SoC. Cette
+attaque combinant injection de faute et analyse side-channel a permis
+de bypasser cette étape d'authentification afin de charger un noyau
+Linux malveillant sur la cible.
+
+*bio*.
+Simon Pontié a soutenu sa thèse de doctorat de l’université Grenoble Alpes en 2016.Il est depuis 2016 ingénieur-chercheur au CEA-LETI.
 
 ***  Caractérisation de l'intégrité de réseaux de neurones embarqués face aux attaques par injection de fautes Laser
 :PROPERTIES:
