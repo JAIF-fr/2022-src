@@ -170,6 +170,11 @@ Pierre-Alain Moellic (CEA-Leti),
 Jean-Max Dutertre (MSE, Centre Microélectronique de Provence),
 Kévin Hector (CEA-Leti)
 
+*résumé*.
+Le déploiement massif des modèles de réseaux de neurones profonds sur une grande variété de plateformes matérielles a ouvert la voie à de nouvelles attaques pouvant être réalisées directement sur la surface du circuit intégré, menaçant ainsi l’intégrité et la confidentialité des réseaux de neurones embarqués.
+
+Nos travaux concernent la caractérisation de l’intégrité de réseaux de neurones, embarqués sur des microcontrôleur 32-bits, face aux attaques par injection de faute Laser. L’état de l’art montre que de faibles variations induites sur les paramètres internes du réseau de neurones (e.g., fonctions d’activation, les biais ou les poids) peuvent avoir une grande influence sur les prédictions du modèle. Pour induire de telles fautes pendant la phase d’inférence d’un modèle, nous utilisons le modèle de faute bit-set lors de la lecture de la mémoire Flash. De cette façon, nous pouvons démontrer la faisabilité d’induire un bit-set sur les valeurs des poids d’un modèle Multi Layer Perceptron (MLP) et ainsi caractériser la chute de la précision d’un modèle MNIST (classification d’images de digit). De plus, nous déterminons par simulation les bites les plus sensibles du modèle dans le but de faire chuter sa précision avec un minimum de fautes induites.
+
 *bio*.
 Mathieu Dumont a terminé sa thèse en octobre 2020 sur la Modélisation de l’injection de faute électromagnétiques sur circuit intégré sécurisés et contre-mesures, à l’Université de Montpellier (LIRMM, STMicroelectronics).Il occupe un post-doc au sein du CEA-Leti, dans l’équipe commune de recherche entre le CEA-Leti et l’Ecole des Mines de Saint-Etienne au Centre de Microélectronique de Provence (CMP). Dans le cadre du projet Européen InSecTT, de l’IRT Nanoelec PULSE, ses travaux portent sur la sécurité de l’Intelligence Artificielle embarquée et plus spécifiquement sur les attaques par injection de fautes laser sur des réseaux de neurones embarqués sur microcontrôleur 32-bit.
 
@@ -200,11 +205,8 @@ Gerard Ribera  (Independent Researcher),
 *Noémie Beringuier-Boher* (Brightsight),
 Stjepan Picek (Delft University of Technology),
 
-
-
 *résumé*.
 Semi-invasive fault injection attacks are powerful techniques well-known by attackers and secure embedded system designers. When performing such attacks, the selection of the fault injection parameters is of utmost importance and usually based on the experience of the attacker. In this work, we present a novel methodology to perform a fast characterization of the fault injection impact on a target, depending on the possible attack parameters. We experimentally show our methodology to be a successful one when targeting different algorithms such as DES and AES encryption and then extend to the full characterization with the help of deep learning. Finally, we show how the characterization results are transferable between different targets.
-
 
 *bio*.
 Noemie Beringuier-Boher received a M.Sc. degree in microelectronics engineering from Polytech' Montpellier, Montpellier University of Sciences in 2011. Then she received a PhD degree in nanoelectronics from the University of Grenoble in 2015. She pursued her research work in Fault Injection, with two post-docs at the Ecoles des Mines de Saint-Etienne, Gardanne. And decided in 2018 to join SGS Brightsight, as a Fault Injection evaluator. Now she is in charge of the Fault Injection domain in this company.
