@@ -60,7 +60,7 @@ Nasr-Eddine Ouldei Tebina – TIMA : X-Ray Fault Injection: Reviewing Defensive 
 
 tbd – Eshard : Fault Injection Attack on Modern SoCs
 
-[[#tollec][Simon Tollec]] -  CEA-List : Exploration of Fault Effects on Formal RISC-V Microarchitecture Models                                              |   |
+[[#tollec][Simon Tollec]] -  CEA-List : Exploration of Fault Effects on Formal RISC-V Microarchitecture Models
 
 *** Attaque en fautes du processeur RISC-V CVA6
 :PROPERTIES:
