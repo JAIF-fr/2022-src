@@ -26,3 +26,10 @@ Sous réserve que les horaires des trains ne soient pas modifiées :
 
 - L'*après-midi*, trois départs de l'Esisar: *16h00*, *17h00*, et *18h20*,
   pour les voyageurs dans les TGV vers Paris : 16h35-18h46, 17h35-19h48, et 18h49-21h12.
+
+** Hotels
+
+- Le plus proche de l'Esisar et du Social Event : [[https://valence-sud.campanile.com][Campanile Valence sud]]
+- En centre ville, en face de la gare :
+  - [[https://www.hotel-les-negociants.com][Les négociants]]
+  - [[https://www.hotel-de-lyon.fr/][Hotel de Lyon]]
