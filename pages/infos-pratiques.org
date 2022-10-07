@@ -30,7 +30,8 @@ Sous réserve que les horaires des trains ne soient pas modifiées :
 ** Hotels
 
 - Le plus proche de l'Esisar et du Social Event : [[https://valence-sud.campanile.com][Campanile Valence sud]]
-- En centre ville, en face de la gare :
+- En centre ville, en face de la gare.  Le service de bus s'arrête à
+  20h, l'accès au centre-ville nécessite donc un taxi en soirée.
   - [[https://www.hotel-les-negociants.com][Les négociants]]
   - [[https://www.hotel-de-lyon.fr/][Hotel de Lyon]]
 
