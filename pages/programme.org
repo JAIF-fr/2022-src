@@ -38,7 +38,7 @@ transferts vers la gare de Valence TGV.
 | 17h00 |                                         | Fin de la journée                                                                                                   |   |
 
 Nous proposons aux participants de JAIF de poursuivre la journée avec
-l'ouverture de [[https://www.csaw.io/europe][CSAW]], puis un social event à proximité de l'ESISAR.
+l'ouverture de [[https://www.csaw.io/europe][CSAW]], puis un [[./infos-pratiques.html#socialevent][social event à proximité de l'ESISAR]].
 
 |       |                                   |
 | 18h00 | Conférences [[https://www.csaw.io/europe][CSAW]]                  |

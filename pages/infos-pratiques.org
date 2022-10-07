@@ -33,3 +33,10 @@ Sous réserve que les horaires des trains ne soient pas modifiées :
 - En centre ville, en face de la gare :
   - [[https://www.hotel-les-negociants.com][Les négociants]]
   - [[https://www.hotel-de-lyon.fr/][Hotel de Lyon]]
+
+** Social Event
+:PROPERTIES:
+:CUSTOM_ID: #socialevent
+:END:
+
+La soirée aura lieu au [[https://www.theplace2beer-cave.com][place 2 beer]], un bar à bières et vins, avec de belles planches de charcuterie et fromage, en face de l'Esisar.
