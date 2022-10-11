@@ -195,6 +195,15 @@ Pierre Lhuissier
 :END:
 *Paolo Maistri* (CNRS, TIMA),
 
+*résumé*.
+In embedded systems, the presence of a security layer is now a well-established requirement. In order to guarantee the suitable level of performance and resistance against attacks, dedicated hardware implementations are often proposed to accelerate cryptographic computations in a controllable environment. On the other hand, these same implementations may be vulnerable to physical attacks, such as side channel analysis or fault injections. In this scenario, the designer must hence be able to assess the robustness of the implementation (and of the adopted countermeasures) as soon as possible in the design flow against several different threats. In this paper, we propose a methodology to characterize the robustness of a generic hardware design described at RTL against EM fault injections. Thanks to our framework, we are able to emulate the EM faults on FPGA platforms, without the need of expensive equipment or lengthy experimental campaigns.
+We present a tool supporting our methodology and the first validations tests done on several AES designs confirming the feasibility of the proposed approach.
+
+*bio*.
+Paolo Maistri received his Ph.D. degree in Computer Engineering from Politecnico di Milano in 2006.
+He is a CNRS researcher at TIMA Laboratory in Grenoble, where is also head of the AMfoRS team since 2018.
+His research focuses on embedded implementations of cryptographic systems, physical attacks, and related countermeasures.
+
 ***  A Fast Characterization Method for Semi-invasive Fault Injection Attacks
 :PROPERTIES:
 :CUSTOM_ID: boher
