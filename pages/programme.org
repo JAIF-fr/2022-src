@@ -85,10 +85,6 @@ Guillaume Bouffard (ENS,  ANSSI)
 *Bio*.
 Vincent Giraud est doctorant à l'École Normale Supérieure (ENS) en sécurité informatique, au service d'Ingenico. Après des études à l'Institut National des Sciences Appliquées (INSA) de Rennes et au Rochester Institute of Technology (RIT), il rejoint l'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) pour un stage de fin d'étude sous la tutelle de Guillaume Bouffard, basé sur la sécurité applicative des cartes à puce. Il réalise actuellement sa thèse sur la sécurisation des processus dans des environnements non contrôlés chez Ingenico.
 
-*** Toward a Low-Cost Methodology for EM Fault Emulation on FPGA
-
-*Paolo Maistri* (CNRS, TIMA),
-
 ***  Exploration of Fault Effects on Formal RISC-V Microarchitecture Models
 :PROPERTIES:
 :CUSTOM_ID: tollec
