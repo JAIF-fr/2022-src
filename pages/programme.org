@@ -69,6 +69,12 @@ tbd – Eshard : Fault Injection Attack on Modern SoCs
 
 *Jean-Roch Coulon* (INVIA / Thales DIS)
 
+*Résumé*.
+    Après une rapide présentation de l’architecture du processeur RISC-V open source CVA6, nous aborderons sa vulnérabilité aux injections de faute « théorique »  et résultant d’injection de fautes par simulation digitale. Nous discuterons ensuite des problématique liées à la sécurité d’implémentation de processeurs open source, et ferons part de notre expérience en tant que division habituée à sécuriser des processeurs.
+
+*Bio*.
+    Jean Roch Coulon est architecte RISC-V au sein du groupe Thales en France, il a ajouté de la sécurité dans les implémentations ARM, SPARC, propriétaires et maintenant RISC-V. Expert en processeur, chaîne d'outils, sécurité, cryptographie ou densité de taille de code. Ses principales contributions à RISC-V sont la version 32 bits de CVA6 (CV32A6), l'implémentation et la vérification de CV-X-IF.  Il est un committer du groupe OpenHW, révise et fusionne les pull requests CVA6 et CORE-V-VERIF.
+
 *** L'attaque en faute : la bête noire des boîtes blanches
 :PROPERTIES:
 :CUSTOM_ID: giraud
