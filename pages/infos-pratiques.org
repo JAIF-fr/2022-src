@@ -14,20 +14,41 @@ Coordonnées GPS
 - Latitude 44.917059°
 - Longitude 4.915496°
 
-** Navette gare TGV -- Esisar
+L'accueil café à partir de 9h se fera dans la salle C004.
+
+** Navettes gare TGV -- Esisar
+:PROPERTIES:
+:CUSTOM_ID: navettes
+:END:
 
 Une navette sera spécialement affrétée pour les participants de JAIF,
-entre la gare TGV de Valence et l'Esisar (temps de trajet 10 min.).
+entre la gare TGV de Valence et l'Esisar (temps de trajet 10 min.).
 
-Sous réserve que les horaires des trains ne soient pas modifiées :
+Sous réserve que les horaires des trains ne soient pas modifiés :
 
 - Le *matin*, deux départs de la gare TGV: *8h30*,  *9h40*,
   pour les voyageurs dans les TGV de Paris (Direct 2h10) : 6h14-8h14 et 7h14-9h24
-
 - L'*après-midi*, trois départs de l'Esisar: *16h00*, *17h00*, et *18h20*,
   pour les voyageurs dans les TGV vers Paris : 16h35-18h46, 17h35-19h48, et 18h49-21h12.
 
+*** Accès aux navettes affrétées pour JAIF
+
+- *Aller* :: À la gare Valence TGV, sortir par la porte "Alpes" puis se rendre à la station de bus (100 m environ). Environ 12 min de trajet.
+- *Retour* :: Les navettes pour la gare TGV partiront de la rue Barthélémy de Laffemas (rue devant l'Esisar).
+
+** Accès en transports en commun
+:PROPERTIES:
+:CUSTOM_ID: tc
+:END:
+
+1. Depuis la gare TGV, prendre un bus "IC intercitéa" direction "Valence gare routière" et s’arrêter à "Pôle bus" (puis voir ci-dessous). Environ 14 min de trajet.
+2. A la gare Valence ville, il faut sortir de la gare et aller au "Pôle bus" (6 minutes à pied environ). Puis, prendre le "bus 20" direction "Montélier centre", et s’arrêter à l'arrêt "Valence Pôle Briffaut" OU prendre le bus "Cité 2" vers "Valence Pôle Briffaut" et s'arréter à l'arrêt "IUT". Environ 14 min de trajet.
+
+
 ** Hotels
+:PROPERTIES:
+:CUSTOM_ID: hotels
+:END:
 
 - Le plus proche de l'Esisar et du Social Event : [[https://valence-sud.campanile.com][Campanile Valence sud]]
 - En centre ville, en face de la gare.  Le service de bus s'arrête à
@@ -37,7 +58,7 @@ Sous réserve que les horaires des trains ne soient pas modifiées :
 
 ** Social Event
 :PROPERTIES:
-:CUSTOM_ID: #socialevent
+:CUSTOM_ID: socialevent
 :END:
 
 La soirée aura lieu au [[https://www.theplace2beer-cave.com][place 2 beer]], un bar à bières et vins, avec de belles planches de charcuterie et fromage, en face de l'Esisar.
