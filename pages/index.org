@@ -68,5 +68,5 @@ Contact: [[mailto:jaif@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
 
 ** Soutien institutionnel et sponsors
 
-JAIF est sponsorisé par [[https://www.ledger.com/][Ledger]], [[https://www.secure-ic.fr/][Secure-IC]], [[http://www.thalesgroup.com/][Thales DIS Design services SAS]],
+JAIF est sponsorisé par [[https://www.ledger.com/][Ledger]], [[https://www.secure-ic.fr/][Secure-IC]], [[http://www.thalesgroup.com/][Thales DIS Design services SAS]], [[https://www.brightsight.com][SGS-Brightsight]],
 et a reçu une aide de l’[[https://www.ssi.gouv.fr/][ANSSI]], de la [[https://fmnt.fr/][FMNT]] et du [[https://persyval-lab.org/][Persyval-Lab]].
