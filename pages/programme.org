@@ -26,7 +26,7 @@ L'accueil café à partir de 9h se fera dans la salle C004.
 | 11h10 |                                         | Pause café - [[#posters][session posters]]                                                                                        |          |
 | 11h50 | *Session 2*                               | *Modélisation de fautes*                                                                                              |          |
 |       | [[#tollec][Simon Tollec]]                            | Exploration of Fault Effects on Formal RISC-V Microarchitecture Models                                              | [[[file:media/JAIF2022_Tollec.pdf][slides]]] |
-|       | [[#alshaer][Ihab Al Shaer]]                           | Variable-Length Instruction Set: Feature or Bug?                                                                    |          |
+|       | [[#alshaer][Ihab Al Shaer]]                           | Variable-Length Instruction Set: Feature or Bug?                                                                    | [[[file:media/JAIF2022_AlShaer.pdf][slides]]] |
 | 12h40 |                                         | Déjeuner -      [[#posters][session posters]]                                                                                     |          |
 | 14h00 | *Session 3*                               | *Attaques en fautes avancées*                                                                                         |          |
 |       | [[#fanjas][Simon Pontié]]                            | Méthode combinée d'Injection de faute et d'analyse Side-Channel temps réel pour contourner le Secure-Boot d'Android | [[[file:media/JAIF2022_Pontie.pdf][slides]]] |
